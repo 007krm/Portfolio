@@ -4,11 +4,16 @@ body {
 }
 
 /* links */
+a:hover {
+  color:white;
+}
+
 a {
   font-family: fantasy;
   color: rgb(30, 255, 0);
   text-align: center;
 }
+
 
 /* h1 Titles */
 h1 {
