@@ -20,8 +20,10 @@ a:visited {
 
 /* h1 Titles */
 h1 {
+  /* display: inline; */
   border: rgb(0, 0, 0) solid;
   border-radius: 50px;
+  /* width: 400px; */
   padding: 2px;
   margin: 5px;
   border-width: 5px;
