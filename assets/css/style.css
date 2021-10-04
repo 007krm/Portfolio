@@ -14,14 +14,17 @@ a {
   text-align: center;
 }
 
+a:visited {
+  color: red;
+}
 
 /* h1 Titles */
 h1 {
   border: rgb(0, 0, 0) solid;
+  border-width: 5px;
   border-radius: 50px;
   padding: 2px;
   margin: 5px;
-  border-width: 5px;
   color: rgb(214, 211, 0);
 }
 /* links */
