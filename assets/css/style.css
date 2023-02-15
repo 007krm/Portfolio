@@ -5,12 +5,12 @@ body {
 
 /* links */
 a:hover {
-  color:white;
+  color:red;
 }
 
 a {
   font-family: fantasy;
-  color: rgb(30, 255, 0);
+  color: white;
   text-align: center;
 }
 
@@ -31,12 +31,12 @@ h1 {
 }
 /* links */
 li {
-  color: rgb(30, 255, 0);
+  color: white;
   list-style: circle;
 }
 /* paragraphs */
 p {
-  color: rgb(30, 255, 0);
+  color: white;
 }
 
 /* Hover Effect */
