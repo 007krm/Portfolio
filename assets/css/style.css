@@ -51,7 +51,7 @@ body {
 }
 
 body {
-  animation: gradient 10s ease infinite;
+  animation: gradient 45s ease infinite;
 }
 
 @keyframes gradient {
